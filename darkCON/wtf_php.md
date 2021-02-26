@@ -3,6 +3,7 @@
 Challenge was a classic file upload without file filter.
 uploaded php file with phpinfo()
 
+Restricted file() and system()
 ![Restricted file() and system()](img/disabled_func.png)
 
 uploaded another php containing
@@ -18,6 +19,7 @@ while ($iterator->valid()) {
 ?>
 
 ```
+outputed all files in etc directory
 ![outputed all files in etc directory](img/f1@g.png)
 
 final php upload containing the flag contents
