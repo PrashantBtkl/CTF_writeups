@@ -1,4 +1,4 @@
-###WTF php
+### WTF php
 
 Challenge was a classic file upload without file filter.
 uploaded php file with phpinfo()
